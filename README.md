@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**GrownLinux/GrownLInux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Franklin, un apasionado analista financiero en ciernes con una sólida base en ingeniería de sistemas.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en la creacion de una API financiera.
+- 🌱 Estoy aprendiendo Python y Docker en mi tiempo libre.
+- 📫 Cómo contactarme: https://www.linkedin.com/in/franklin-andres-rodriguez-193356270/.
+
+## Mis estadísticas en GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=radical)
+
+## Mis proyectos destacados
+
+[![Proyecto 1](https://github.com/GrownLinux/INDUSTRIA-DOWJONES)] 
+
+[![Proyecto 2](https://github.com/GrownLinux/Docker-PlayonLinux)]
+
+## Lenguajes de programación que utilizo
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
+
