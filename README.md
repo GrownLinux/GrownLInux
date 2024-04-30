@@ -20,6 +20,6 @@ Mi nombre es Franklin, un apasionado analista financiero en ciernes con una sól
 
 ## Lenguajes de programación que utilizo
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-python/?username=Franklin&layout=compact&theme=radical)
 
 ![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
