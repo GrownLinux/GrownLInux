@@ -2,6 +2,8 @@
 
 Mi nombre es Franklin, un apasionado analista financiero en ciernes con una sólida base en ingeniería de sistemas.
 
+![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 ## Sobre mí
 
 - 🔭 Actualmente estoy trabajando en la creacion de una API financiera.
@@ -22,4 +24,3 @@ Mi nombre es Franklin, un apasionado analista financiero en ciernes con una sól
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-python/?username=Franklin&layout=compact&theme=radical)
 
-![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
