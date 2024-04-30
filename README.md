@@ -22,3 +22,4 @@ Mi nombre es Franklin, un apasionado analista financiero en ciernes con una sól
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
 
+![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
