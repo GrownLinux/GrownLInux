@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Mi nombre es Franklin, un apasionado analista financiero en ciernes con una sólida base en ingeniería de sistemas.
+Mi nombre es Franklin, un apasionado por Linux con una sólida base en ingeniería de sistemas.
 
 ![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
