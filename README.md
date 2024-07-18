@@ -39,11 +39,11 @@ Hola, soy Franklin, un apasionado por la tecnología con un fuerte enfoque en Li
 
 ## Mis proyectos destacados
 
-### [Proyecto 1: INDUSTRIA-DOWJONES](https://github.com/GrownLinux/INDUSTRIA-DOWJONES)
-![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=GrownLinux&repo=INDUSTRIA-DOWJONES&theme=radical)
+### [Proyecto 1: INDUSTRIA-DOWJONES])
+![Proyecto 1](https://github.com/GrownLinux/INDUSTRIA-DOWJONES)
 
-### [Proyecto 2: Docker-PlayonLinux](https://github.com/GrownLinux/Docker-PlayonLinux)
-![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=GrownLinux&repo=Docker-PlayonLinux&theme=radical)
+### [Proyecto 2: Financial API])
+![Proyecto 2](https://github.com/GrownLinux/financial-api)
 
 ## Lenguajes de programación que utilizo
 
