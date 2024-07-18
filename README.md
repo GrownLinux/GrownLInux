@@ -6,9 +6,23 @@
 
 ### Franklin, apasionado por Linux y con una sólida base en ingeniería de sistemas
 
+Hola, soy Franklin, un apasionado por la tecnología con un fuerte enfoque en Linux y la ingeniería de sistemas. Mi objetivo es crear soluciones eficientes y efectivas en el ámbito tecnológico.
+
 - 🔭 Actualmente trabajando en la creación de una API financiera.
 - 🌱 Aprendiendo Python y Docker en mi tiempo libre.
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/franklin-andres-rodriguez-193356270/)
+
+## Intereses
+
+- **Tecnología:** Siempre estoy explorando nuevas tecnologías y tendencias en el desarrollo de software.
+- **Aprendizaje:** Soy un aprendiz de por vida, constantemente buscando mejorar mis habilidades y conocimientos.
+
+### Certificados de Finalización
+
+- **Programming Foundations Fundamentals**
+- **Python Esencial**
+- **Python Esencial 1**
+- **The NonTechnical Skills of Effective Data Scientists**
 
 ## Lenguajes y Herramientas
 
@@ -34,5 +48,3 @@
 ## Lenguajes de programación que utilizo
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin&layout=compact&theme=radical)
-
-
