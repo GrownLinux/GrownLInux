@@ -33,10 +33,6 @@ Hola, soy Franklin, un apasionado por la tecnología con un fuerte enfoque en Li
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
 
-## Mis estadísticas en GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=radical)
-
 ## Mis proyectos destacados
 
 ### [Proyecto 1: Shell-Genie-Setup-and-Usage-Guide])
