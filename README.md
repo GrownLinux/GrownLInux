@@ -39,8 +39,8 @@ Hola, soy Franklin, un apasionado por la tecnología con un fuerte enfoque en Li
 
 ## Mis proyectos destacados
 
-### [Proyecto 1: INDUSTRIA-DOWJONES])
-![Proyecto 1](https://github.com/GrownLinux/INDUSTRIA-DOWJONES)
+### [Proyecto 1: Shell-Genie-Setup-and-Usage-Guide])
+![Proyecto 1](https://github.com/GrownLinux/Shell-Genie-Setup-and-Usage-Guide)
 
 ### [Proyecto 2: Financial API])
 ![Proyecto 2](https://github.com/GrownLinux/financial-api)
