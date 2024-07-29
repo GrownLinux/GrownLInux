@@ -39,7 +39,7 @@ Hola, soy Franklin, un apasionado por la tecnología con un fuerte enfoque en Li
 ![Proyecto 1](https://github.com/GrownLinux/Shell-Genie-Setup-and-Usage-Guide)
 
 ### [Proyecto 2: ChatBot-Project])
-![Proyecto 2]([https://github.com/GrownLinux/Chatbot_project])
+![Proyecto 2]([https://colombi-ai-chatbot-mejoras-1-gui-franklinlinux.replit.app/])
 
 ## Lenguajes de programación que utilizo
 
