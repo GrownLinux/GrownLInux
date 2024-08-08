@@ -36,11 +36,11 @@ Hola, soy Franklin, un apasionado por la tecnología con un fuerte enfoque en Li
 ## Mis proyectos destacados
 
 ### [Proyecto 1: Educacion Financiera])
-![Proyecto 1]([https://github.com/GrownLinux/FinanzasEdu]
+![Proyecto 1] [https://github.com/GrownLinux/FinanzasEdu]
 
 ### [Proyecto 2: ChatBot-Project])
-![Proyecto 2]([https://colombi-ai-chatbot-mejoras-1-gui-franklinlinux.replit.app/]
+![Proyecto 2] [https://colombi-ai-chatbot-mejoras-1-gui-franklinlinux.replit.app/]
 
 ## Lenguajes de programación que utilizo
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin&layout=compact&theme=radical)
+![Top Lenguajes] [https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin&layout=compact&theme=radical]
